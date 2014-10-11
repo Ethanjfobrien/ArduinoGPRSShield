@@ -1,7 +1,7 @@
 ArduinoGPRSShield
 =================
 
-arduino wrapper for sim900 AT commands to allow communication over hardware serial
+An arduino wrapper for sim900 AT commands to allow communication over hardware serial
 
 fGSM.ino contains functions for communicating directly with the sim900 chip using the hardware serial pins Tx, Rx on the Intel Galileo.
 
